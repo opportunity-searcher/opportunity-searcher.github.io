@@ -1,6 +1,7 @@
 # Opportunity Searcher  
 
 The basis of this project can be found [here](http://courses.ics.hawaii.edu/ics314s21/morea/final-project/reading-project-company-connector.html)
+Repository for [souce code](https://github.com/opportunity-searcher)
 
 ## Table of Contents
 
@@ -34,3 +35,9 @@ Students who visit the site can create a profile with their interests (skills), 
 - a way to search by various categories like skill, geographic preference, etc.
 - messaging system
 - quality UI
+
+## Team Members:
+
+- [Matthew Ito](https://github.com/Matt-Ito)
+- [Kegan Flagg](https://github.com/keggit)
+- [Jay Paul Luben](https://github.com/jpluben)
