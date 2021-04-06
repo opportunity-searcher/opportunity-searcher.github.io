@@ -2,7 +2,7 @@
 
 The basis of this project can be found [here](http://courses.ics.hawaii.edu/ics314s21/morea/final-project/reading-project-company-connector.html)
 
-#Table of Contents
+## Table of Contents
 
 * [The problem](#problem)
 * [The solution](#solution)
