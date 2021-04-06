@@ -1,7 +1,8 @@
 # Opportunity Searcher  
 
 The basis of this project can be found [here](http://courses.ics.hawaii.edu/ics314s21/morea/final-project/reading-project-company-connector.html)
-Repository for [souce code](https://github.com/opportunity-searcher)
+
+Repository for [souce code](https://github.com/opportunity-searcher/opportunity-searcher)
 
 ## Table of Contents
 
