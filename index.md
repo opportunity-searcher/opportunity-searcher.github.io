@@ -39,6 +39,6 @@ Students who visit the site can create a profile with their interests (skills), 
 
 ## Team Members:
 
-- [Matthew Ito](https://github.com/Matt-Ito)
-- [Kegan Flagg](https://github.com/keggit)
-- [Jay Paul Luben](https://github.com/jpluben)
+- [Matthew Ito](https://github.com/Matt-Ito): UH Manoa student majoring in ICS and minoring in Japanese.
+- [Kegan Flagg](https://github.com/keggit):
+- [Jay Paul Luben](https://github.com/jpluben):
