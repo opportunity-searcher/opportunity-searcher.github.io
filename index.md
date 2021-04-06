@@ -6,8 +6,7 @@ Many UH computer science and engineering students want to learn about internship
 
 ## The solution:  
 
-The Company Connector web application provides a new way for local and non-local companies who want to recruit students from UH to make their (potential) opportunities known to students. At the same time, students can create profiles on the site with their interests. The site can match students to employers and vice-versa.
-Approach
+The web application provides a new way for local and non-local companies who want to recruit students from UH to make their (potential) opportunities known to students. At the same time, students can create profiles on the site with their interests. The site can match students to employers and vice-versa.
 
 ## Overview
 
@@ -21,16 +20,9 @@ Instead of sending out announcements each year, a company can create a page in t
 
 Students who visit the site can create a profile with their interests (skills), preferred geographic location, and link to their professional portfolio page.
 
-Admins can monitor the site for inappropriate content, and create new categories of musical tastes, capabilities, and goals.
+## Goals:  
 
-Note: if you choose this idea for your final project, you cannot name it “Company Connectro”. Come up with a different name for your final project.
-
-`todo:`
-
-    Landing page
-    Student home page.
-    Company home page
-    Admin home page
-    Student profile page.
-    Company profile page
-    Browse companies and users by skill, geographic preference, etc.
+- Profile page for students and companies  
+- a way to search by various categories like skill, geographic preference, etc.
+- messaging system
+- quality UI
