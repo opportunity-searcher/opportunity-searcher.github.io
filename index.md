@@ -1,5 +1,13 @@
 # Opportunity Searcher  
 
+The basis of this project can be found [here](http://courses.ics.hawaii.edu/ics314s21/morea/final-project/reading-project-company-connector.html)
+
+#Table of Contents
+
+* [The problem](#problem)
+* [The solution](#solution)
+* [Overview](#overview)
+
 ## The problem:  
 
 Many UH computer science and engineering students want to learn about internship and job opportunities, but currently they must wait until a company decides to visit the campus or send out some sort of announcement. There is no efficient way for students to understand the “landscape” of internship and job opportunities that might be available in the future, so they can prepare for them now.
