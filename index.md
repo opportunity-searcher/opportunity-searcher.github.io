@@ -49,8 +49,7 @@ The home page will contain the profile of students looking for work as well as t
 
 There will be two different types of profile pages: student profiles and company profiles. Besides the basic information, student profiles contain the type of position they are searching for. Meanwhile, company profiles include information about what kinds of candidates they are looking for.  
 
-~insert mockup here~  
-
+![](/docs/profile.png)  
 
 ### Messaging page:  
 
