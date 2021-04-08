@@ -47,14 +47,14 @@ Students who visit the site can create a profile with their interests (skills), 
 
 ## Deployment
 
-The application can be found hosted on the Digital Ocean cloud servers [insert link (here)](insertlink)
+The application can be found hosted on the Digital Ocean cloud servers [here](http://104.131.93.174/)
 
 # Project Progress
 
 * [Final Project: Milestone 1](https://github.com/orgs/opportunity-searcher/projects/1) (In progress)
 * [Final Project: Milestone 2](https://github.com/orgs/opportunity-searcher/projects/2) (In progress)
 
-The Milestones provide issues about the [application(insert link)](insertlink) and [github homepage](https://opportunity-searcher.github.io/) being worked on.
+The Milestones provide issues about the [application](http://104.131.93.174/) and [github homepage](https://opportunity-searcher.github.io/) being worked on.
 
 The following sections contain the project's progression of the application in chronological order.
 
