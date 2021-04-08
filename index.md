@@ -6,9 +6,13 @@ Repository for [souce code](https://github.com/opportunity-searcher/opportunity-
 
 ## Table of Contents
 
-* [The problem](#problem)
-* [The solution](#solution)
+* [The problem:](#problem)
+* [The solution:](#solution)
 * [Overview](#overview)
+* [Goals:](#goals)
+* [Team Members:](#team-members)
+* [Deployment](#deployment)
+* [Project Progress](#progress)
 
 ## The problem:  
 
@@ -42,3 +46,21 @@ Students who visit the site can create a profile with their interests (skills), 
 - [Matthew Ito](https://github.com/Matt-Ito): UH Manoa student majoring in ICS and minoring in Japanese.
 - [Kegan Flagg](https://github.com/keggit):
 - [Jay Paul Luben](https://github.com/jpluben): UH Manoa student majoring in ICS and minoring in Japanese.
+
+## Deployment
+
+The application can be found hosted on the Digital Ocean cloud servers [insert link (here)](insertlink)
+
+# Project Progress
+
+* [Final Project: Milestone 1](https://github.com/orgs/opportunity-searcher/projects/1) (In progress)
+* [Final Project: Milestone 2](https://github.com/orgs/opportunity-searcher/projects/2) (In progress)
+
+The Milestones provide issues about the [application(insert link)](insertlink) and [github homepage](https://opportunity-searcher.github.io/) being worked on.\
+The following sections contain the project's progression of the application in chronological order.
+
+## Mockup Pages
+
+**Landing Page**\
+Creation of the mockup page due for the E58 assignment/M1 milestone
+<img src="doc/landing-page.png">
