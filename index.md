@@ -6,13 +6,13 @@ Repository for [souce code](https://github.com/opportunity-searcher/opportunity-
 
 ## Table of Contents
 
-* [The problem:](#problem)
-* [The solution:](#solution)
+* [The problem](#the-problem)
+* [The solution](#the-solution)
 * [Overview](#overview)
-* [Goals:](#goals)
-* [Team Members:](#team-members)
+* [Goals](#goals)
+* [Team Members](#team-members)
 * [Deployment](#deployment)
-* [Project Progress](#progress)
+* [Project Progress](#project-progress)
 
 ## The problem:  
 
