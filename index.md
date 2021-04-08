@@ -1,6 +1,6 @@
 The basis of this project can be found [here](http://courses.ics.hawaii.edu/ics314s21/morea/final-project/reading-project-company-connector.html)
 
-Repository for [souce code](https://github.com/opportunity-searcher/opportunity-searcher)
+Repository for [source code](https://github.com/opportunity-searcher/opportunity-searcher)
 
 ## Table of Contents
 
@@ -41,7 +41,7 @@ Students who visit the site can create a profile with their interests (skills), 
 
 ## Team Members
 
-- [Matthew Ito](https://github.com/Matt-Ito): UH Manoa student majoring in ICS and minoring in Japanese.
+- [Matthew Ito](https://github.com/Matt-Ito): UH Manoa student majoring in ICS and minoring in Japanese. Hobbies include video games, anime, and weightlifting.
 - [Kegan Flagg](https://github.com/keggit): UH Manoa student who enjoys running as a hobby.
 - [Jay Paul Luben](https://github.com/jpluben): UH Manoa student majoring in Computer Science:Security Science with a hobby in Video Games and Anime.
 
