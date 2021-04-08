@@ -82,5 +82,5 @@ A Company will put down an email link of a company representative so that studen
 
 ### Search Page
 
-A Company will put down an email link of a company representative so that students can quickly email the company, students also have an email link so that companies can scout them.
+Students and companies can both search using a unified search button. Results are in the form of profiles.
 <img src="doc/search.png">
