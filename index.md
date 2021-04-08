@@ -35,10 +35,38 @@ Students who visit the site can create a profile with their interests (skills), 
 - Profile page for students and companies  
 - a way to search by various categories like skill, geographic preference, etc.
 - messaging system
-- quality UI
+- quality UI  
+
+## Mockup:  
+
+### Home page:  
+
+The home page will contain the profile of students looking for work as well as the profiles of companies looking for students. Besides this, it will have a navbar that will show different links based on whether somone is using a student account, company account, or no account at all.  
+
+![](/docs/home.png)  
+
+### Profile page:
+
+There will be two different types of profile pages: student profiles and company profiles. Besides the basic information, student profiles contain the type of position they are searching for. Meanwhile, company profiles include information about what kinds of candidates they are looking for.  
+
+~insert mockup here~  
+
+
+### Messaging page:  
+
+A Company will put down an email link of a company representative so that students can quickly email the company, students also have an email link so that companies can scout them.  
+
+~insert mockup here~  
+
+### Search Page:  
+
+Students and companies can both search using a unified search button. Results are in the form of profiles.  
+
+~insert mockup here~  
+
 
 ## Team Members:
 
 - [Matthew Ito](https://github.com/Matt-Ito): UH Manoa student majoring in ICS and minoring in Japanese.
-- [Kegan Flagg](https://github.com/keggit):
+- [Kegan Flagg](https://github.com/keggit): UH Manoa student who enjoys running as a hobby.
 - [Jay Paul Luben](https://github.com/jpluben):
