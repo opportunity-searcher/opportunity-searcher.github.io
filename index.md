@@ -42,12 +42,12 @@ Students who visit the site can create a profile with their interests (skills), 
 ## Team Members
 
 - [Matthew Ito](https://github.com/Matt-Ito): UH Manoa student majoring in ICS and minoring in Japanese.
-- [Kegan Flagg](https://github.com/keggit):
-- [Jay Paul Luben](https://github.com/jpluben): UH Manoa student majoring in ICS and minoring in Japanese.
+- [Kegan Flagg](https://github.com/keggit): UH Manoa student who enjoys running as a hobby.
+- [Jay Paul Luben](https://github.com/jpluben): UH Manoa student majoring in Computer Science:Security Science with a hobby in Video Games and Anime.
 
 ## Deployment
 
-The application can be found hosted on the Digital Ocean cloud servers [here](http://104.131.93.174)
+The application can be found hosted on the Digital Ocean cloud servers [insert link (here)](insertlink)
 
 # Project Progress
 
@@ -60,6 +60,27 @@ The following sections contain the project's progression of the application in c
 
 ## Mockup Pages
 
-**Landing Page**\
+### Landing Page
+
 Creation of the mockup page due for the E58 assignment/M1 milestone
 <img src="doc/landing-page.png">
+
+### Home Page
+
+The home page will contain the profile of students looking for work as well as the profiles of companies looking for students. Besides this, it will have a navbar that will show different links based on whether somone is using a student account, company account, or no account at all.
+<img src="doc/home.png">
+
+### Profile Page
+
+There will be two different types of profile pages: student profiles and company profiles. Besides the basic information, student profiles contain the type of position they are searching for. Meanwhile, company profiles include information about what kinds of candidates they are looking for.
+<img src="doc/profile.png">
+
+### Messaging Page
+
+A Company will put down an email link of a company representative so that students can quickly email the company, students also have an email link so that companies can scout them.
+<img src="doc/message.png">
+
+### Search Page
+
+A Company will put down an email link of a company representative so that students can quickly email the company, students also have an email link so that companies can scout them.
+<img src="doc/search.png">
