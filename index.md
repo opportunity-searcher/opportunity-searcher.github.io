@@ -34,7 +34,7 @@ Students who visit the site can create a profile with their interests (skills), 
 
 ## Goals
 
-- Profile page for students and companies  
+- Profile page for students and companies
 - a way to search by various categories like skill, geographic preference, etc.
 - messaging system
 - quality UI
@@ -47,7 +47,7 @@ Students who visit the site can create a profile with their interests (skills), 
 
 ## Deployment
 
-The application can be found hosted on the Digital Ocean cloud servers [insert link (here)](insertlink)
+The application can be found hosted on the Digital Ocean cloud servers [here](http://104.131.93.174)
 
 # Project Progress
 
