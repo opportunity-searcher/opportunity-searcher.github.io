@@ -41,4 +41,4 @@ Students who visit the site can create a profile with their interests (skills), 
 
 - [Matthew Ito](https://github.com/Matt-Ito): UH Manoa student majoring in ICS and minoring in Japanese.
 - [Kegan Flagg](https://github.com/keggit):
-- [Jay Paul Luben](https://github.com/jpluben):
+- [Jay Paul Luben](https://github.com/jpluben): UH Manoa student majoring in ICS and minoring in Japanese.
