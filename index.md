@@ -55,13 +55,13 @@ There will be two different types of profile pages: student profiles and company
 
 A Company will put down an email link of a company representative so that students can quickly email the company, students also have an email link so that companies can scout them.  
 
-~insert mockup here~  
+![](/docs/message.png) 
 
 ### Search Page:  
 
 Students and companies can both search using a unified search button. Results are in the form of profiles.  
 
-~insert mockup here~  
+![](/docs/search.png)  
 
 
 ## Team Members:
