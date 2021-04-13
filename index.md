@@ -47,7 +47,7 @@ Students who visit the site can create a profile with their interests (skills), 
 
 ## Deployment
 
-The application can be found hosted on the Digital Ocean cloud servers [here](http://104.131.93.174/)
+The application can be found hosted on the Digital Ocean cloud servers [here](http://104.131.93.174/).\
 The landing page will look like the screenshot below.
 <img src="doc/landing-page.png">
 
