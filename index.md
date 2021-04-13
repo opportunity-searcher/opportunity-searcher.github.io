@@ -48,6 +48,8 @@ Students who visit the site can create a profile with their interests (skills), 
 ## Deployment
 
 The application can be found hosted on the Digital Ocean cloud servers [here](http://104.131.93.174/)
+The landing page will look like the screenshot below.
+<img src="doc/landing-page.png">
 
 # Project Progress
 
@@ -59,11 +61,6 @@ The Milestones provide issues about the [application](http://104.131.93.174/) an
 The following sections contain the project's progression of the application in chronological order.
 
 ## Mockup Pages
-
-### Landing Page
-
-Creation of the mockup page due for the E58 assignment/M1 milestone
-<img src="doc/landing-page.png">
 
 ### Home Page
 
