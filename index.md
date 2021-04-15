@@ -94,10 +94,10 @@ Users upon login will be redirected to the home page, which will show options to
 
 ### List Profiles
 
-Users are able to look at student profiles in the database
+Logged in users will be able to look at student profiles in the database
 <img src="doc/site-listProfiles.png">
 
 ### List Companies
 
-Users are able to look at company profiles in the database
+Logged in users will be able to look at company profiles in the database
 <img src="doc/site-listCompanies.png">
