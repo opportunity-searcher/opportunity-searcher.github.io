@@ -81,3 +81,23 @@ A Company will put down an email link of a company representative so that studen
 
 Students and companies can both search using a unified search button. Results are in the form of profiles.
 <img src="doc/search.png">
+
+## Site changes
+
+The following screenshots shows how it looks on the [website](http://104.131.93.174/)
+
+### Home Page
+
+Users upon login will be redirected to the home page, which will show options to look at member profiles and company profiles
+<img src="doc/site-home.png">
+
+
+### List Profiles
+
+Users are able to look at student profiles in the database
+<img src="doc/site-listProfiles.png">
+
+### List Companies
+
+Users are able to look at company profiles in the database
+<img src="doc/site-listCompanies.png">
