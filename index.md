@@ -53,10 +53,39 @@ The landing page will look like the screenshot below.
 
 # Project Progress
 
-* [Final Project: Milestone 1](https://github.com/orgs/opportunity-searcher/projects/1) (In progress)
-* [Final Project: Milestone 2](https://github.com/orgs/opportunity-searcher/projects/2) (In progress)
-
 The Milestones provide issues about the [application](http://104.131.93.174/) and [github homepage](https://opportunity-searcher.github.io/) being worked on.
+
+## Milestone 1  
+
+* [Final Project: Milestone 1](https://github.com/orgs/opportunity-searcher/projects/1) (In progress)
+
+5 mockup pages are implemented and available to see on Digital Ocean.  
+
+### Home  
+
+The simple home page directs users to use the search function.  
+
+<img src="doc/home-m1.png">  
+
+### List Companies and Profiles  
+
+This page shows a list of all the companies, and also has a similar page for students/regular users.  
+
+<img src="doc/companies-m1.png">  
+
+Here is the student page:  
+
+<img src="doc/students-m1.png">  
+
+### Search  
+
+The search page is simple. It provides a searchbar for typing in keywords which display both companies and profiles in a unified format.  
+
+<img src="doc/search-m1.png">
+
+## Milestone 2
+
+* [Final Project: Milestone 2](https://github.com/orgs/opportunity-searcher/projects/2) (In progress)
 
 The following sections contain the project's progression of the application in chronological order.
 
