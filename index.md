@@ -84,12 +84,6 @@ The search page is simple. It provides a searchbar for typing in keywords which 
 
 <img src="doc/search-m1.png">
 
-## Milestone 2
-
-* [Final Project: Milestone 2](https://github.com/orgs/opportunity-searcher/projects/2) (In progress)
-
-The following sections contain the project's progression of the application in chronological order.
-
 ## Mockup Pages
 
 ### Home Page
@@ -111,6 +105,11 @@ A Company will put down an email link of a company representative so that studen
 
 Students and companies can both search using a unified search button. Results are in the form of profiles.
 <img src="doc/search.png">
+
+
+## Milestone 2
+
+* [Final Project: Milestone 2](https://github.com/orgs/opportunity-searcher/projects/2) (In progress)
 
 ## Developer Guide
 
