@@ -11,6 +11,7 @@ Repository for [source code](https://github.com/opportunity-searcher/opportunity
 * [Team Members](#team-members)
 * [Deployment](#deployment)
 * [Project Progress](#project-progress)
+* [Developer Guide](#developer-guide)
 
 ## The problem
 
