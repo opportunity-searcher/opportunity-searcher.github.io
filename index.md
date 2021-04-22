@@ -55,31 +55,31 @@ The landing page will look like the screenshot below.
 
 The Milestones provide issues about the [application](http://104.131.93.174/) and [github homepage](https://opportunity-searcher.github.io/) being worked on.
 
-## Milestone 1  
+## Milestone 1
 
 * [Final Project: Milestone 1](https://github.com/orgs/opportunity-searcher/projects/1) (In progress)
 
-5 mockup pages are implemented and available to see on Digital Ocean.  
+5 mockup pages are implemented and available to see on Digital Ocean.
 
-### Home  
+### Home
 
-The simple home page directs users to use the search function.  
+The simple home page directs users to use the search function.
 
-<img src="doc/home-m1.png">  
+<img src="doc/home-m1.png">
 
-### List Companies and Profiles  
+### List Companies and Profiles
 
-This page shows a list of all the companies, and also has a similar page for students/regular users.  
+This page shows a list of all the companies, and also has a similar page for students/regular users.
 
-<img src="doc/companies-m1.png">  
+<img src="doc/companies-m1.png">
 
-Here is the student page:  
+Here is the student page:
 
-<img src="doc/students-m1.png">  
+<img src="doc/students-m1.png">
 
-### Search  
+### Search
 
-The search page is simple. It provides a searchbar for typing in keywords which display both companies and profiles in a unified format.  
+The search page is simple. It provides a searchbar for typing in keywords which display both companies and profiles in a unified format.
 
 <img src="doc/search-m1.png">
 
@@ -110,3 +110,62 @@ A Company will put down an email link of a company representative so that studen
 
 Students and companies can both search using a unified search button. Results are in the form of profiles.
 <img src="doc/search.png">
+
+## Developer Guide
+
+This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks.
+
+### Installation
+
+First, [install Meteor](https://www.meteor.com/install).
+
+Second, visit the [Opportuniter Searcher application github page](https://github.com/opportunity-searcher/opportunity-searcher), and click the "Use this template" button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo.  However you do it, download a copy of the repo to your local computer.
+
+Third, cd into the opportunity-searcher/app directory and install libraries with:
+
+```
+$ meteor npm install
+```
+
+Fourth, run the system with:
+
+```
+$ meteor npm run start
+```
+
+If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
+
+### Application Design
+
+Opportunity Searcher is based upon [meteor-application-template-react](https://ics-software-engineering.github.io/meteor-application-template-react/) and [meteor-example-form-react](https://ics-software-engineering.github.io/meteor-example-form-react/). Please use the videos and documentation at those sites to better acquaint yourself with the basic application design and form processing in Bowfolios.
+
+## Initialization
+
+The [config](https://github.com/bowfolios/bowfolios/tree/master/config) directory is intended to hold settings files.  The repository contains one file: [config/settings.development.json](https://github.com/bowfolios/bowfolios/blob/master/config/settings.development.json).
+
+This file contains default definitions for Profiles and Companies. Consult the walkthrough video for more details.
+
+### Quality Assurance
+
+#### ESLint
+
+Opportunity Searcher includes a [.eslintrc](https://github.com/opportunity-searcher/opportunity-searcher/blob/master/app/.eslintrc) file to define the coding style adhered to in this application. You can invoke ESLint from the command line as follows:
+
+```
+meteor npm run lint
+```
+
+Here is sample output indicating that no ESLint errors were detected:
+
+```
+$ meteor npm run lint
+
+> bowfolios@ lint /Users/philipjohnson/github/bowfolios/bowfolios/app
+> eslint --quiet --ext .jsx --ext .js ./imports ./tests
+
+$
+```
+
+ESLint should run without generating any errors [Note that at the time of writing, searchpage.jsx has not been fixed yet so an eslint error will pop up].
+
+It's significantly easier to do development with ESLint integrated directly into your IDE (such as IntelliJ).
