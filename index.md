@@ -58,7 +58,7 @@ The Milestones provide issues about the [application](http://104.131.93.174/) an
 
 ## Milestone 1
 
-* [Final Project: Milestone 1](https://github.com/orgs/opportunity-searcher/projects/1) (In progress)
+* [Final Project: Milestone 1](https://github.com/orgs/opportunity-searcher/projects/1)
 
 5 mockup pages are implemented and available to see on Digital Ocean.
 
