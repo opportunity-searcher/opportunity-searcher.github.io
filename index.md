@@ -10,6 +10,7 @@ Repository for [source code](https://github.com/opportunity-searcher/opportunity
 * [Goals](#goals)
 * [Team Members](#team-members)
 * [Deployment](#deployment)
+* [Developer Guide](#developer-guide)
 * [Project Progress](#project-progress)
 
 ## The problem
@@ -50,66 +51,6 @@ Students who visit the site can create a profile with their interests (skills), 
 The application can be found hosted on the Digital Ocean cloud servers [here](http://104.131.93.174/).\
 The landing page will look like the screenshot below.
 <img src="doc/landing-page.png">
-
-# Project Progress
-
-The Milestones provide issues about the [application](http://104.131.93.174/) and [github homepage](https://opportunity-searcher.github.io/) being worked on.
-
-## Milestone 1
-
-* [Final Project: Milestone 1](https://github.com/orgs/opportunity-searcher/projects/1) (In progress)
-
-5 mockup pages are implemented and available to see on Digital Ocean.
-
-### Home
-
-The simple home page directs users to use the search function.
-
-<img src="doc/home-m1.png">
-
-### List Companies and Profiles
-
-This page shows a list of all the companies, and also has a similar page for students/regular users.
-
-<img src="doc/companies-m1.png">
-
-Here is the student page:
-
-<img src="doc/students-m1.png">
-
-### Search
-
-The search page is simple. It provides a searchbar for typing in keywords which display both companies and profiles in a unified format.
-
-<img src="doc/search-m1.png">
-
-## Milestone 2
-
-* [Final Project: Milestone 2](https://github.com/orgs/opportunity-searcher/projects/2) (In progress)
-
-The following sections contain the project's progression of the application in chronological order.
-
-## Mockup Pages
-
-### Home Page
-
-The home page will contain the profile of students looking for work as well as the profiles of companies looking for students. Besides this, it will have a navbar that will show different links based on whether somone is using a student account, company account, or no account at all.
-<img src="doc/home.png">
-
-### Profile Page
-
-There will be two different types of profile pages: student profiles and company profiles. Besides the basic information, student profiles contain the type of position they are searching for. Meanwhile, company profiles include information about what kinds of candidates they are looking for.
-<img src="doc/profile.png">
-
-### Messaging Page
-
-A Company will put down an email link of a company representative so that students can quickly email the company, students also have an email link so that companies can scout them.
-<img src="doc/message.png">
-
-### Search Page
-
-Students and companies can both search using a unified search button. Results are in the form of profiles.
-<img src="doc/search.png">
 
 ## Developer Guide
 
@@ -169,3 +110,64 @@ $
 ESLint should run without generating any errors [Note that at the time of writing, searchpage.jsx has not been fixed yet so an eslint error will pop up].
 
 It's significantly easier to do development with ESLint integrated directly into your IDE (such as IntelliJ).
+
+# Project Progress
+
+The Milestones provide issues about the [application](http://104.131.93.174/) and [github homepage](https://opportunity-searcher.github.io/) being worked on.
+
+## Milestone 1
+
+* [Final Project: Milestone 1](https://github.com/orgs/opportunity-searcher/projects/1)
+
+5 mockup pages are implemented and available to see on Digital Ocean.
+
+## Mockup Pages
+
+### Home Page
+
+The home page will contain the profile of students looking for work as well as the profiles of companies looking for students. Besides this, it will have a navbar that will show different links based on whether somone is using a student account, company account, or no account at all.
+<img src="doc/home.png">
+
+### Profile Page
+
+There will be two different types of profile pages: student profiles and company profiles. Besides the basic information, student profiles contain the type of position they are searching for. Meanwhile, company profiles include information about what kinds of candidates they are looking for.
+<img src="doc/profile.png">
+
+### Messaging Page
+
+A Company will put down an email link of a company representative so that students can quickly email the company, students also have an email link so that companies can scout them.
+<img src="doc/message.png">
+
+### Search Page
+
+Students and companies can both search using a unified search button. Results are in the form of profiles.
+<img src="doc/search.png">
+
+## Webpages
+
+### Home
+
+The simple home page directs users to use the search function.
+
+<img src="doc/home-m1.png">
+
+### List Companies and Profiles
+
+This page shows a list of all the companies, and also has a similar page for students/regular users.
+
+<img src="doc/companies-m1.png">
+
+Here is the student page:
+
+<img src="doc/students-m1.png">
+
+### Search
+
+The search page is simple. It provides a searchbar for typing in keywords which display both companies and profiles in a unified format.
+
+<img src="doc/search-m1.png">
+## Milestone 2
+
+* [Final Project: Milestone 2](https://github.com/orgs/opportunity-searcher/projects/2) (In progress)
+
+
