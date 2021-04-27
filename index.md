@@ -196,7 +196,7 @@ The workflow definition file is quite simple and is located at
 
 # Project Progress
 
-The Milestones provide issues about the [application](http://104.131.93.174/) and [github homepage](https://opportunity-searcher.github.io/) being worked on.
+The Milestones provide issues about the [application](https://opportunity-searcher.xyz/) and [github homepage](https://opportunity-searcher.github.io/) being worked on.
 
 ## Milestone 1
 
@@ -275,7 +275,7 @@ When logged in as an administrator, the list profiles page includes an edit butt
 
 When logged in as an administrator, the list companies page includes an edit button for all companies so that admins may edit any info included with the company.
 
-<img src="doc/list-profiles.png">
+<img src="doc/list-companies.png">
 
 ### Edit Profile
 
