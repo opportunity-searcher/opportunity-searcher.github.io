@@ -68,6 +68,11 @@ You can then add a profile, you will need to click at the "Add Profile" tab on t
 After adding your new profile, you can then see your profile along with everyone elses!
 <img src="doc/list-profiles.png">
 
+## List Companies
+
+Feel free to browse the catalogue of many different and unique companies looking for talented enthusiasts such as yourself to add to their ranks!
+<img src="doc/list-companies.png">
+
 ## Deployment
 
 The application can be found hosted on the Digital Ocean cloud servers [here](http://104.131.93.174/).\
