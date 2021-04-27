@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5e0f63b-d887-4c74-816c-185c3cff4e66" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/landing-page.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

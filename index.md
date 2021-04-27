@@ -75,7 +75,7 @@ Feel free to browse the catalogue of many different and unique companies looking
 
 ## Deployment
 
-The application can be found hosted on the Digital Ocean cloud servers [here](http://104.131.93.174/).\
+The application can be found hosted on the Digital Ocean cloud servers [here](https://opportunity-searcher.xyz/).\
 The landing page will look like the screenshot below.
 <img src="doc/landing-page.png">
 
@@ -87,7 +87,7 @@ This section provides information of interest to Meteor developers wishing to us
 
 First, [install Meteor](https://www.meteor.com/install).
 
-Second, visit the [Opportuniter Searcher application github page](https://github.com/opportunity-searcher/opportunity-searcher), and click the "Use this template" button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo.  However you do it, download a copy of the repo to your local computer.
+Second, visit the [Opportunity Searcher application github page](https://github.com/opportunity-searcher/opportunity-searcher), and click the "Use this template" button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo.  However you do it, download a copy of the repo to your local computer.
 
 Third, cd into the opportunity-searcher/app directory and install libraries with:
 
@@ -137,6 +137,62 @@ $
 ESLint should run without generating any errors [Note that at the time of writing, searchpage.jsx has not been fixed yet so an eslint error will pop up].
 
 It's significantly easier to do development with ESLint integrated directly into your IDE (such as IntelliJ).
+
+#### End to End Testing
+
+Opportunity Searcher uses [TestCafe](https://devexpress.github.io/testcafe/) to provide automated end-to-end testing.
+
+The Opportunity Searcher end-to-end test code employs the page object model design pattern.  In the [Opportunity Searcher tests/ directory](https://github.com/opportunity-searcher/opportunity-searcher/tree/master/app/tests), the file [tests.testcafe.js](https://github.com/opportunity-searcher/opportunity-searcher/blob/master/app/tests/tests.testcafe.js) contains the TestCafe test definitions. The remaining files in the directory contain "page object models" for the various pages in the system (i.e. Home, Landing, Interests, etc.) as well as one component (navbar). This organization makes the test code shorter, easier to understand, and easier to debug.
+
+To run the end-to-end tests in development mode, you must first start up a Opportunity Searcher instance by invoking `meteor npm run start` in one console window.
+
+Then, in another console window, start up the end-to-end tests with:
+
+```
+meteor npm run testcafe
+```
+
+You will see browser windows appear and disappear as the tests run.  If the tests finish successfully, you should see the following in your second console window:
+
+```
+$ meteor npm run testcafe
+
+> meteor-application-template-react@ testcafe C:\Users\jpaul\Documents\Github\opportunity-searcher\app
+> testcafe chrome:headless tests/*.testcafe.js -q --app "meteor npm run start"
+
+ Running tests in:
+ - Chrome 90.0.4430.93 / Windows 10
+
+ meteor-application-template-react localhost test with default db
+ √ Test that landing page shows up (unstable)
+ √ Test that signin and signout work
+ √ Test the Search page
+ √ Test the List Profiles page
+ √ Test the List Companies page
+ √ Test the home page
+ √ Test the Add Profile page
+ √ Test the Add Company page
+
+
+ 8 passed (50s)
+
+
+ $
+```
+
+All the tests pass, but the first test is marked as "unstable". At the time of writing, TestCafe fails the first time it tries to run a test in this mode, but subsequent attempts run normally. To prevent the test run from failing due to this problem with TestCafe, we enable [testcafe quarantine mode](https://devexpress.github.io/testcafe/documentation/guides/basic-guides/run-tests.html#quarantine-mode).
+
+The only impact of quarantine mode should be that the first test is marked as "unstable".
+
+## Continuous Integration
+
+![ci-badge](https://github.com/bowfolios/bowfolios/workflows/ci-bowfolios/badge.svg)
+
+Opportunity Searcher uses [GitHub Actions](https://docs.github.com/en/free-pro-team@latest/actions) to automatically run ESLint and TestCafe each time a commit is made to the default branch.  You can see the results of all recent "workflows" at [https://github.com/opportunity-searcher/opportunity-searcher/actions](https://github.com/opportunity-searcher/opportunity-searcher/actions).
+
+The workflow definition file is quite simple and is located at
+[.github/workflows/ci.yml](https://github.com/opportunity-searcher/opportunity-searcher/blob/master/.github/workflows/ci.yml).
+
 
 # Project Progress
 
