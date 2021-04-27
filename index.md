@@ -11,6 +11,7 @@ Repository for [source code](https://github.com/opportunity-searcher/opportunity
 * [Overview](#overview)
 * [Goals](#goals)
 * [Team Members](#team-members)
+* [User Guide](#user-guide)
 * [Deployment](#deployment)
 * [Developer Guide](#developer-guide)
 * [Project Progress](#project-progress)
@@ -47,6 +48,25 @@ Students who visit the site can create a profile with their interests (skills), 
 - [Matthew Ito](https://github.com/Matt-Ito): UH Manoa student majoring in ICS and minoring in Japanese. Hobbies include video games, anime, and weightlifting.
 - [Kegan Flagg](https://github.com/keggit): UH Manoa student who enjoys running as a hobby.
 - [Jay Paul Luben](https://github.com/jpluben): UH Manoa student majoring in Computer Science:Security Science with a hobby in Video Games and Anime.
+
+## User Guide
+
+This section provides information of interest to users who would like a step-by-step tutorial on how to use this application to its extent.
+
+## Sign up
+
+You will first have to sign up, the following screenshot will show you how the sing-up page looks.
+<img src="doc/signup.png">
+
+## Add Profile
+
+You can then add a profile, you will need to click at the "Add Profile" tab on the navbar. You will then need to fill out the following form with your information.
+<img src="doc/add-profile.png">
+
+## List Profiles
+
+After adding your new profile, you can then see your profile along with everyone elses!
+<img src="doc/list-profiles.png">
 
 ## Deployment
 
