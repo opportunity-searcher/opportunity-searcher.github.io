@@ -168,8 +168,36 @@ Here is the student page:
 The search page is simple. It provides a searchbar for typing in keywords which display both companies and profiles in a unified format.
 
 <img src="doc/search-m1.png">
+
 ## Milestone 2
+* [Final Project: Milestone 2](https://github.com/orgs/opportunity-searcher/projects/2)
 
-* [Final Project: Milestone 2](https://github.com/orgs/opportunity-searcher/projects/2) (In progress)
+### Add Profile
 
+The add profile page lets all users create a profile of a student looking for an opportunity.
 
+<img src="doc/add-profile.png">
+
+### Add Company
+
+The add company page lets all users create a profile of a company looking for potential hires or candidates.
+
+<img src="doc/add-company.png">
+
+### List Profiles
+
+When logged in as an administrator, the list profiles page includes an edit button for all profiles so that admins may edit any info included with the profile.
+
+<img src="doc/list-profiles.png">
+
+### List Companies
+
+When logged in as an administrator, the list companies page includes an edit button for all companies so that admins may edit any info included with the company.
+
+<img src="doc/list-profiles.png">
+
+### Edit Profile
+
+The edit profile page is only available to admins who have clicked on a specific profile to edit. This page allows admins to change information associated with the profile using a form
+
+<img src="doc/edit-profile.png">
