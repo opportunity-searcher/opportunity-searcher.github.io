@@ -66,12 +66,12 @@ You can then add a profile, you will need to click at the "Add Profile" tab on t
 ## List Profiles
 
 After adding your new profile, you can then see your profile along with everyone elses!
-<img src="doc/list-profiles.png">
+<img src="doc/students-m1.png">
 
 ## List Companies
 
 Feel free to browse the catalogue of many different and unique companies looking for talented enthusiasts such as yourself to add to their ranks!
-<img src="doc/list-companies.png">
+<img src="doc/companies-m1.png">
 
 ## Deployment
 
