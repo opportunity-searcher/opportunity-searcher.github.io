@@ -2,6 +2,8 @@ The basis of this project can be found [here](http://courses.ics.hawaii.edu/ics3
 
 Repository for [source code](https://github.com/opportunity-searcher/opportunity-searcher)
 
+![ci-badge](https://github.com/ics-software-engineering/meteor-application-template-react/workflows/ci-meteor-application-template-react/badge.svg)
+
 ## Table of Contents
 
 * [The problem](#the-problem)
