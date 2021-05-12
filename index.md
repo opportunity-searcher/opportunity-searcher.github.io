@@ -284,7 +284,24 @@ The edit profile page is only available to admins who have clicked on a specific
 
 <img src="doc/edit-profile.png">
 
+## Milestone 3
+* [Final Project: Milestone 3](https://github.com/orgs/opportunity-searcher/projects/3)
+
+### Personal Pages
+
+Each profile or company now comes with a personal page upon clicking on a specific profile card.
+
+<img src="doc/personal-page.png">
+
+### Homepage
+
+The homepage has been updated to include two buttons to redirect users to a list page for profiles or companies. Also, a featured "Profile of the Day" and "Company of the Day" has been implemented as a spotlight for individuals to get our users noticed faster.
+
+<img src="doc/homepage-m3.png">
+
 # User Reviews
+
+## Anonymous Reviews from Testers
 
 "Overall format easy to use and fill out. After the finishing of the profile, wish it automatically took me to the Companies or Other Profiles page. Very clear to use and worked well."
 
