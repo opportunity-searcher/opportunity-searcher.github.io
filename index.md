@@ -15,6 +15,7 @@ Repository for [source code](https://github.com/opportunity-searcher/opportunity
 * [Deployment](#deployment)
 * [Developer Guide](#developer-guide)
 * [Project Progress](#project-progress)
+* [User Reviews](#user-reviews)
 
 ## The problem
 
@@ -282,3 +283,9 @@ When logged in as an administrator, the list companies page includes an edit but
 The edit profile page is only available to admins who have clicked on a specific profile to edit. This page allows admins to change information associated with the profile using a form
 
 <img src="doc/edit-profile.png">
+
+# User Reviews
+
+"Overall format easy to use and fill out. After the finishing of the profile, wish it automatically took me to the Companies or Other Profiles page. Very clear to use and worked well."
+
+"website is pretty cool, great idea to serve for finding UH students jobs. Main issues were that it didn’t seem too compatible with iOS, I couldn’t upload a picture to the image box and instructions weren’t quite clear there. Also, homepage format for iOS made text boxes very narrow and hard to read. Other than that, cool concept."
