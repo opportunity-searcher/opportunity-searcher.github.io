@@ -59,10 +59,10 @@ This section provides information of interest to users who would like a step-by-
 You will first have to sign up, the following screenshot will show you how the sing-up page looks.
 <img src="doc/signup.png">
 
-## Add Profile
+## Finish Profile
 
-You can then add a profile, you will need to click at the "Add Profile" tab on the navbar. You will then need to fill out the following form with your information.
-<img src="doc/add-profile.png">
+After signing up, you are redirected to the finish sign up page. Here you can decide whether you are a company or a student looking for work and complete your profile based on the decision. If you do not finish the profile it is available to finish by clicking 'Finish Profile' in the login dropdown menu.
+<img src="doc/finish.png">
 
 ## List Profiles
 
