@@ -306,3 +306,5 @@ The homepage has been updated to include two buttons to redirect users to a list
 "Overall format easy to use and fill out. After the finishing of the profile, wish it automatically took me to the Companies or Other Profiles page. Very clear to use and worked well."
 
 "website is pretty cool, great idea to serve for finding UH students jobs. Main issues were that it didn’t seem too compatible with iOS, I couldn’t upload a picture to the image box and instructions weren’t quite clear there. Also, homepage format for iOS made text boxes very narrow and hard to read. Other than that, cool concept."
+
+"I think the website design is nice. However it is a bit messy on my phone and I cannot attach an image... Overall good job"
