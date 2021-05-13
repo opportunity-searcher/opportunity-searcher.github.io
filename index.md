@@ -308,3 +308,7 @@ The homepage has been updated to include two buttons to redirect users to a list
 "website is pretty cool, great idea to serve for finding UH students jobs. Main issues were that it didn’t seem too compatible with iOS, I couldn’t upload a picture to the image box and instructions weren’t quite clear there. Also, homepage format for iOS made text boxes very narrow and hard to read. Other than that, cool concept."
 
 "I think the website design is nice. However it is a bit messy on my phone and I cannot attach an image... Overall good job"
+
+"The website you and the others created is very user-friendly in looking for new ways for non-local and local companies to recruit students for internships or jobs from the University of Hawaii"
+
+"Making the account was very smooth going, straight forward and also quick to make!"
