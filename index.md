@@ -312,3 +312,5 @@ The homepage has been updated to include two buttons to redirect users to a list
 "The website you and the others created is very user-friendly in looking for new ways for non-local and local companies to recruit students for internships or jobs from the University of Hawaii"
 
 "Making the account was very smooth going, straight forward and also quick to make!"
+
+"The website was very responsive and user-friendly! Incredibly easy to navigate and even simpler to create a profile. I was impressed by the "User of the Day"and "Company of the Day" features, it's a unique way to incentivize users to make an account and connect with fellow users and companies operating within the site."
